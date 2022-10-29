@@ -1,5 +1,4 @@
 # Flutter Weather App
-# Algoriza Phase 2
 
 -Video of the app
 
